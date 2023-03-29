@@ -1,0 +1,6 @@
+if (hrs < 12)
+        greet = 'Good Morning YOUR_NAME  ';
+    else if (hrs >= 12 && hrs <= 17)
+        greet = 'Good Afternoon YOUR_NAME';
+    else if (hrs >= 17 && hrs <= 24)
+        greet = 'Good Evening YOUR_NAME ';
